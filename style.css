@@ -1,6 +1,8 @@
 body {
     background-color: #0d0d0d;
     color: #fff;
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
 }
 
 .nav-bar {
