@@ -1,4 +1,4 @@
-# Cursor Landing Page Clone using HTML
+# Cursor Landing Page Clone using HTML and CSS
 
 Here is a Clone of the landing page of the Cursor by using only HTML and CSS.
 
